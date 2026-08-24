@@ -14,7 +14,7 @@ const SITE_CONFIG = {
     repoName: 'my-blog',
 
     // Whether deployed under a custom domain (true) or under username.github.io/repo-name (false)
-    useCustomDomain: true,
+    useCustomDomain: false,
 
     // Your email
     email: 'your@email.com',
@@ -70,7 +70,7 @@ const SITE_CONFIG = {
             name: '个人技术博客',
             description: '基于纯静态 HTML/CSS/JS 的 Markdown 博客系统，托管在 GitHub Pages 上，支持暗色模式与响应式布局。',
             tech: ['HTML', 'CSS', 'JavaScript', 'Markdown'],
-            demo: 'https://zthim.top/',
+            demo: 'https://zthimyyds.github.io/my-blog/',
             repo: 'https://github.com/zthimyyds/my-blog'
         },
         {
